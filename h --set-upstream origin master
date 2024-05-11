@@ -1,0 +1,692 @@
+[33mcommit 18a799df9d25fa8a87ef03eb41e760933d206d36[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kenneth Courtney <kenneth.courtney@gmail.com>
+Date:   Sat May 11 01:07:47 2024 -0400
+
+    Modifications for KenDev
+
+[33mcommit c32a189175e54ba8996e9338a3227629dd3d42e5[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 5b23267 467e8e4
+Author: James Mikrut <james@payloadcms.com>
+Date:   Fri May 10 15:34:41 2024 -0700
+
+    Merge pull request #175 from payloadcms/chore/update-next
+    
+    chore: bumps next canary version
+
+[33mcommit 467e8e474c63aa1fa532f13d736a80073fbaaa41[m
+Merge: 21d1805 5b23267
+Author: James Mikrut <james@trbl.design>
+Date:   Fri May 10 15:34:33 2024 -0700
+
+    Merge branch 'main' into chore/update-next
+
+[33mcommit 5b23267ffc49c187edf8e8693d6d84acdec90892[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Fri May 10 09:18:12 2024 -0400
+
+    chore: upgrade payload packages
+
+[33mcommit 810f4084a7b4b339d3a90006a702322680e89972[m
+Author: Sondre Ørland <78776152+sondreorland@users.noreply.github.com>
+Date:   Tue May 7 22:50:02 2024 +0200
+
+    chore: use single quotes in import statements for consistency (#125)
+
+[33mcommit 3e91ee926670a99366cbec1d6fa8c7275181583b[m
+Author: Matt Kane <m@mk.gg>
+Date:   Tue May 7 21:48:09 2024 +0100
+
+    chore: add works on Netlify note (#168)
+
+[33mcommit 7fa5d3b747613731c079045cb1afb1e3851b3f5d[m
+Author: Paul Popus <paul@nouance.io>
+Date:   Tue May 7 14:47:20 2024 -0300
+
+    fix: update new import from lexical
+
+[33mcommit 684c065f263af2cf915902a7e3a5c6bda15df4e7[m
+Author: Paul Popus <paul@nouance.io>
+Date:   Tue May 7 14:06:07 2024 -0300
+
+    chore: bump payload packages
+
+[33mcommit 21d1805a5c20c733ba2f8ea7f359500f18d797c5[m
+Author: Jessica Chowdhury <jessica@trbl.design>
+Date:   Fri May 3 13:27:05 2024 +0100
+
+    chore: bumps next canary version
+
+[33mcommit 49976fb646ad2cd4675966e61064d9b2855750ac[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Thu May 2 13:08:51 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit e971f85e26e7780cf14dee62d4bdf15786f7c245[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Thu May 2 13:08:45 2024 -0400
+
+    chore: bump payload admin files
+
+[33mcommit f24f2b4c1d53e3d3965fa64ed548886d4f87e1eb[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Wed May 1 20:26:47 2024 -0400
+
+    feat: bump all payload packages
+
+[33mcommit 94f7edfa386acca4c4b0e8605089b2f78e88babb[m
+Author: James <james@trbl.design>
+Date:   Sat Apr 27 12:03:41 2024 -0400
+
+    chore: bumps next canary
+
+[33mcommit baaa7a48fb84fe424473a22518f88c040cd65808[m
+Author: James <james@trbl.design>
+Date:   Sat Apr 27 11:37:20 2024 -0400
+
+    chore: adds graphql to dependencies
+
+[33mcommit 35773ffbf65990d71dc3fe7bf790fc55f6905f9f[m
+Author: Jarrod Flesch <jarrodmflesch@gmail.com>
+Date:   Fri Apr 26 08:10:57 2024 -0400
+
+    chore: adds OPTIONS export to payload api file
+
+[33mcommit ef362c2dbdb5fb87441f0843c667ccd68d47f4c9[m
+Author: Jarrod Flesch <jarrodmflesch@gmail.com>
+Date:   Thu Apr 25 14:36:34 2024 -0400
+
+    chore: bump payload to beta-18
+
+[33mcommit 6e3dc91fadfa222803b773c721cffa5e0c26789c[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Apr 23 12:02:04 2024 -0400
+
+    chore: add comments to standalone script
+
+[33mcommit 73e8fb60b570ff776493a1e9e62386066647bfac[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Apr 23 12:01:46 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit 37c1e3332c6a0050eb4dbfad6e6e3b0500036cd2[m
+Author: Jarrod Flesch <jarrodmflesch@gmail.com>
+Date:   Wed Apr 17 15:12:18 2024 -0400
+
+    chore: bump next
+
+[33mcommit bd26378cc9cf459430d772df5e214785b03b320f[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Apr 16 11:09:56 2024 -0400
+
+    fix: code overflow
+
+[33mcommit a9e525719424b23e293fb72e7eb6b6e35c0134eb[m
+Author: Tylan Davis <89618855+tylandavis@users.noreply.github.com>
+Date:   Mon Apr 15 16:19:08 2024 -0400
+
+    chore: restyles start page (#114)
+    
+    * restyles start page
+    
+    * chore: start page style tweaks
+    
+    * chore: adjust codeblock overflow
+    
+    * chore: satisfies the design gods
+
+[33mcommit 6e7f241ce0c9a1e574359bcd94ab1fe6bce264b8[m
+Author: Jacob Fletcher <jacobsfletch@gmail.com>
+Date:   Fri Apr 12 13:36:59 2024 -0400
+
+    fix(deps): pins next@14.2.0-canary.33
+
+[33mcommit c189e8bf48fcf70fdfa4483867a263be88c546a4[m
+Author: Jacob Fletcher <jacobsfletch@gmail.com>
+Date:   Fri Apr 12 13:14:20 2024 -0400
+
+    fix(deps): bumps next to latest
+
+[33mcommit 695c02242d1cbff14b29976e2741e2380f0d12b3[m
+Author: Jacob Fletcher <jacobsfletch@gmail.com>
+Date:   Fri Apr 12 12:36:43 2024 -0400
+
+    chore: removes all static font assets (#94)
+
+[33mcommit b4b870763674f631885f3415d07a1980e4b8064e[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Fri Apr 12 12:14:55 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit fb2a04d2308799f34c4f9e8b34c5f2684904c758[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Fri Apr 12 12:14:30 2024 -0400
+
+    chore: remove static files
+
+[33mcommit a75a27b06b3acd08dd016c740a021bfc20270d0f[m
+Author: Kendell Joseph <1900724+kendelljoseph@users.noreply.github.com>
+Date:   Thu Apr 11 14:03:38 2024 -0400
+
+    chore: adjusts .env.example (#1)
+    
+    Co-authored-by: Jacob Fletcher <jacobsfletch@gmail.com>
+
+[33mcommit 9c881d6733ab212add6444a7bd895966ca712fe2[m
+Author: Jacob Fletcher <jacobsfletch@gmail.com>
+Date:   Thu Apr 11 13:06:46 2024 -0400
+
+    fix: adds not found page
+
+[33mcommit 20d32550d20265228738217b8dcf26eb95db40f0[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Thu Apr 11 10:04:30 2024 -0400
+
+    chore: update i18n comment, remove translations package
+
+[33mcommit 0ee6c31eda292b9901d52c830789ff452d307d3f[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Wed Apr 10 22:35:05 2024 -0400
+
+    chore: do not allow modifying user document, so that people can't reset the deployed demo password
+
+[33mcommit b6c6c267d9904d7ae9643827307f19bee0d2d5cf[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Wed Apr 10 17:43:51 2024 -0400
+
+    chore(deps): bump packages, withPayload adjust, inject translations
+
+[33mcommit 059a16e2e746efbb9b0bb4923a70556748184a08[m
+Author: Paul <paul@payloadcms.com>
+Date:   Wed Apr 10 12:17:44 2024 -0300
+
+    Update README.md
+
+[33mcommit 4e29d53694dcdaf9b14d41fda540c904ab007cdf[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Wed Apr 10 10:26:58 2024 -0400
+
+    feat: add passing in translations
+
+[33mcommit 57dc23eb28a10210d9cc31fa26474b5f8007e18f[m
+Author: James Mikrut <james@trbl.design>
+Date:   Wed Apr 10 10:00:02 2024 -0400
+
+    Update README.md
+
+[33mcommit f6fe48931b16b70ddb7648dd822565f54894c0af[m
+Author: James Mikrut <james@trbl.design>
+Date:   Tue Apr 9 16:45:06 2024 -0400
+
+    Update README.md
+
+[33mcommit 74180892f9a2a31117398b261e9b0614dcf3c3f4[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Apr 9 16:15:32 2024 -0400
+
+    chore: update page alpha -> beta
+
+[33mcommit 0a18986e3632de2521e685ec5d4328acdfcdecba[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Apr 9 16:11:32 2024 -0400
+
+    chore: update README
+
+[33mcommit b9b1deb38912221ea4e15126124ce854d4f18cb1[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Apr 9 15:22:42 2024 -0400
+
+    chore(deps): bump payload packages to beta
+
+[33mcommit 396c931411b4c0d1b0a508bf2f8e385ca383137c[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Apr 9 14:56:02 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit 761faf1d565afe500c4dba515b5d2961345f05df[m
+Merge: be30ec4 a68a72c
+Author: James Mikrut <james@trbl.design>
+Date:   Tue Apr 9 14:23:06 2024 -0400
+
+    Merge pull request #73 from vstraigis/main
+    
+    Add script to run Postgresql locally with docker
+
+[33mcommit a68a72cab2ba5fa7daa0445666f76c6e8fbad0f8[m
+Author: Valentinas Straigis <val.straigis@gmail.com>
+Date:   Tue Apr 9 15:49:40 2024 +0300
+
+    feat(postgres): update readme for database connection
+
+[33mcommit d8ed498d7dfe21ab002f94f2922e67e84d4accaf[m
+Author: Valentinas Straigis <val.straigis@gmail.com>
+Date:   Tue Apr 9 15:45:41 2024 +0300
+
+    feat(postgres): add postgres docker script
+
+[33mcommit be30ec414fc02adc0512445a7437006e006e78d7[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Mon Apr 8 13:44:21 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit eb209c330e86725cbfd4d3a11297016575690f1d[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Mon Apr 8 13:02:45 2024 -0400
+
+    chore: bump payload packages, add type gen script
+
+[33mcommit ec95e415c60fe9f89e998ef13e6c24da1aeb8b26[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Sat Apr 6 13:47:04 2024 -0400
+
+    feat: add standalone script example
+
+[33mcommit 0d1087d5bc718d7d744c1a48c9f85791e334e151[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Sat Apr 6 13:46:06 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit a8f883dbf69106bc47053cc6a1372aea2dfb3b26[m
+Author: Jarrod Flesch <jarrodmflesch@gmail.com>
+Date:   Fri Apr 5 10:13:46 2024 -0400
+
+    chore: fix env example
+
+[33mcommit 09efd0553374ff7d3e62b79378e3184f5eb57571[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Thu Apr 4 21:11:44 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit 5c5364b7fa831e4e0d8638ed6d342d8991ff2dae[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Thu Apr 4 20:00:37 2024 -0400
+
+    chore(deps): bump payload packages
+
+[33mcommit 09c4c2e06e522c8ef373ca1e08649426678da923[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Fri Mar 22 13:29:51 2024 -0400
+
+    chore(deps): bump all packages
+
+[33mcommit 88651bbb3849b609504ca2729bcaf19ea466c087[m
+Author: Elliot DeNolf <denolfe@users.noreply.github.com>
+Date:   Fri Mar 22 13:15:28 2024 -0400
+
+    feat: alpha updates (#51) (#52)
+    
+    This reverts commit 409713b99ef803d621e0ebdbe736898e23befff0.
+
+[33mcommit 409713b99ef803d621e0ebdbe736898e23befff0[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Fri Mar 22 12:36:08 2024 -0400
+
+    revert: alpha updates (#51)
+    
+    This reverts commit e30e63349028405f8dc5b622287fd88091780194.
+
+[33mcommit e30e63349028405f8dc5b622287fd88091780194[m
+Author: Elliot DeNolf <denolfe@users.noreply.github.com>
+Date:   Fri Mar 22 12:21:04 2024 -0400
+
+    feat: alpha updates (#51)
+
+[33mcommit 90d11b654b253ea58ca8301d792a6391ac6f619e[m
+Author: James Mikrut <james@trbl.design>
+Date:   Fri Mar 15 09:11:39 2024 -0400
+
+    Update README.md
+
+[33mcommit d717c943f02ab6fcd903e8c937a70d63bb2aaee4[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Thu Mar 14 10:45:27 2024 -0400
+
+    chore: update pnpm-lock
+
+[33mcommit 0818bbececd71d1592d124ef2221d3f07f70f9d6[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Thu Mar 14 10:13:01 2024 -0400
+
+    chore: downgrade to next 14.2.0-canary.7 to fix peer dependency issue
+
+[33mcommit ed3563470c99f352988cb05ee7e282ef6471a245[m
+Author: Paul Popus <paul@nouance.io>
+Date:   Tue Mar 12 23:12:46 2024 -0300
+
+    chore: uncomment out the example of a server component with local api running
+
+[33mcommit 59293846cb247723f74e7a8dfff79c3fa977a1a0[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Tue Mar 12 16:23:30 2024 -0400
+
+    chore: upgrade payload dependencies from .46 to .48
+
+[33mcommit 92b5d9aad3395961cbf515146fbc1cd806368f5b[m
+Author: Dan Ribbens <dan.ribbens@gmail.com>
+Date:   Mon Mar 11 21:53:22 2024 -0400
+
+    fix: cross-env run scripts
+
+[33mcommit 8ba4037fe7f0d9a4eb46da54933228dd2499fd25[m
+Author: James <james@trbl.design>
+Date:   Mon Mar 11 15:46:41 2024 -0400
+
+    chore: bumps deps
+
+[33mcommit 3594aa90535afc29fd7b7f9a71c7313b5162071e[m
+Author: James <james@trbl.design>
+Date:   Sun Mar 10 22:52:41 2024 -0400
+
+    chore: bumps packages
+
+[33mcommit 86bf05f4d1b15204c8a9dfca0e92c30953241811[m
+Author: James <james@trbl.design>
+Date:   Sun Mar 10 18:14:28 2024 -0400
+
+    chore: experiment with vercel deployment / pino error
+
+[33mcommit 32c4be2742d4317615ee2ea39565ecbd79ac4cc6[m
+Author: James <james@trbl.design>
+Date:   Sun Mar 10 18:07:02 2024 -0400
+
+    chore: adds static files to public folder
+
+[33mcommit 49bb57f4cc5c416f6d59d90565ab4e02b47b3ec5[m
+Author: James <james@trbl.design>
+Date:   Sun Mar 10 18:02:47 2024 -0400
+
+    chore: adds changelog
+
+[33mcommit 0dafd3bc4594d698bff329b2788bde87375bc459[m
+Author: James <james@trbl.design>
+Date:   Sun Mar 10 14:38:59 2024 -0400
+
+    chore: updates to most recent alpha
+
+[33mcommit e6d172694f0be413fb3960cf7239a89ba8edddc1[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Sun Mar 10 03:03:12 2024 -0400
+
+    chore: disable punycode deprecation warnings on newer node versions
+
+[33mcommit 3c193246e240b60c1b2edce90c6371362f2a8062[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Sun Mar 10 01:49:43 2024 -0500
+
+    fix: provide configPromise to getPayload to avoid error on first-time, uncached load
+
+[33mcommit 005c590a003d8791d864c8e28870a64613da7859[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Sun Mar 10 01:46:54 2024 -0500
+
+    chore: add .prettierrc.json
+
+[33mcommit 2ba9a84825552502d38f3c9bfa26d9348ab3397a[m
+Author: Paul Popus <paul@nouance.io>
+Date:   Sat Mar 9 13:50:13 2024 -0300
+
+    chore: add home page with information on local API
+
+[33mcommit 373b4c0a4c5025de067553a1f9ecfbb6664ad169[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 8 16:15:18 2024 -0500
+
+    chore: bumps packages
+
+[33mcommit 40692b71e416aba9d4dfea14d9cf19af853ab689[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Fri Mar 8 15:35:01 2024 -0500
+
+    chore: improve .gitignore
+
+[33mcommit d93c720bea9026bb6897c8776bf18045d43048b2[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Fri Mar 8 15:34:25 2024 -0500
+
+    chore: roll back versions
+
+[33mcommit 1c95830048973de2da30dad2367f75bd4f33f922[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 8 15:30:16 2024 -0500
+
+    chore: sets type to module
+
+[33mcommit 5be260a8e85caf499f6a8afa26fa1021e419875d[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 8 15:23:52 2024 -0500
+
+    chore: adds payload script for migrations and type gen
+
+[33mcommit 40d360127a55a1c66420060c4d5aea24965dbbfc[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 8 15:22:02 2024 -0500
+
+    chore: lint
+
+[33mcommit cd9ff7703ec16b624220810f71657e9c73527f80[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 8 15:15:39 2024 -0500
+
+    chore: bumps packages
+
+[33mcommit 451e8b5389169d1779abf3ba55863e5e898308a2[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Fri Mar 8 13:16:40 2024 -0500
+
+    chore: revert to previous working alpha
+
+[33mcommit 05fa51d285d767d5062690f8163c6e4f1fb58284[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Fri Mar 8 12:47:05 2024 -0500
+
+    chore: always install latest alpha
+
+[33mcommit d8294dc973099ed861b66dc4c606d8487ca46380[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Fri Mar 8 00:12:11 2024 -0500
+
+    chore: enforce minimum node version >=18.17
+
+[33mcommit 402892f2c25c9bb22d77cfcaaca266a98cb809ae[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Fri Mar 8 00:11:00 2024 -0500
+
+    chore: improve editor configuration
+
+[33mcommit 705da5af751911cb197f9b07acb8c49cf6032b2d[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Thu Mar 7 23:47:08 2024 -0500
+
+    chore: add autologin and update pnpm-lock
+
+[33mcommit bf7b8ea760335507c302a93ea256f85dd3f18106[m
+Author: James <james@trbl.design>
+Date:   Thu Mar 7 22:02:13 2024 -0500
+
+    chore: removes unused app route, bumps deps
+
+[33mcommit 8a62afe525fd9997a2df998a14fa134eec8d5d20[m
+Author: James <james@trbl.design>
+Date:   Thu Mar 7 19:05:08 2024 -0500
+
+    chore: removes unused code
+
+[33mcommit 05363f61b558085d1150288d21a74f702fff3d6b[m
+Author: James <james@trbl.design>
+Date:   Thu Mar 7 19:00:06 2024 -0500
+
+    chore: bumps deps
+
+[33mcommit 1e04a76ecd750e8622f579a9386796ec62178b9b[m
+Author: James <james@trbl.design>
+Date:   Thu Mar 7 18:42:59 2024 -0500
+
+    chore: bumps deps
+
+[33mcommit a2f91e02a1577874922cb32d5f173ca69c32bf81[m
+Author: James <james@trbl.design>
+Date:   Thu Mar 7 17:53:18 2024 -0500
+
+    chore: clarifications, improvements
+
+[33mcommit d3dc3f7da841b6b47dc5d9df7c59b06060d1cec0[m
+Author: Jarrod Flesch <30633324+JarrodMFlesch@users.noreply.github.com>
+Date:   Thu Mar 7 16:59:16 2024 -0500
+
+    Update README.md
+
+[33mcommit 681ae23009c8fc3908cfb0c54c4557b53640b688[m
+Author: Jarrod Flesch <30633324+JarrodMFlesch@users.noreply.github.com>
+Date:   Thu Mar 7 16:58:21 2024 -0500
+
+    Update README.md
+
+[33mcommit bfd758ca99ffe50b13408a0851361c9036562a74[m
+Author: James Mikrut <james@trbl.design>
+Date:   Thu Mar 7 13:11:14 2024 -0500
+
+    Update README.md
+
+[33mcommit b0656b70b80e603d358e086ef10dbb3113d83c09[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Thu Mar 7 12:10:23 2024 -0500
+
+    pnpm
+
+[33mcommit e63d3e300c1a95180f2ae94cda5d32fd8a1f887a[m
+Author: Alessio Gravili <alessio@gravili.de>
+Date:   Thu Mar 7 12:10:17 2024 -0500
+
+    .env.example
+
+[33mcommit 790af102e0bc1a42dcf1ec2dba58b6aa4dce5a33[m
+Author: James <james@trbl.design>
+Date:   Thu Mar 7 12:05:29 2024 -0500
+
+    chore: bumps deps
+
+[33mcommit e89e1a57e94d219a9d4ca5a4fb708659b4a12faf[m
+Author: James <james@trbl.design>
+Date:   Wed Mar 6 21:16:10 2024 -0500
+
+    chore: tests
+
+[33mcommit 3e3c462a8a14d34049c2ca2ba8c163e8c5bb7654[m
+Author: James <james@trbl.design>
+Date:   Wed Mar 6 16:18:34 2024 -0500
+
+    chore: bumps dependencies
+
+[33mcommit c518842ff172380a85bdf350f417b4d30ebc7f2a[m
+Author: James Mikrut <james@trbl.design>
+Date:   Tue Mar 5 17:17:35 2024 -0500
+
+    Update README.md
+
+[33mcommit db907cef6790c9cbf4a53362e11ff1dc4d3c399b[m
+Author: James <james@trbl.design>
+Date:   Tue Mar 5 17:16:05 2024 -0500
+
+    chore: readme
+
+[33mcommit 88ab021df0220b4f2c886d3871b3c43d4620bcf1[m
+Author: James <james@trbl.design>
+Date:   Tue Mar 5 16:38:45 2024 -0500
+
+    chore: bumps deps
+
+[33mcommit 10ed69a5956e53f6aec87b8c7b1383ae1d8cfdf0[m
+Author: James <james@trbl.design>
+Date:   Tue Mar 5 15:47:07 2024 -0500
+
+    chore: bumps deps
+
+[33mcommit 453c2e321069ff0d65f9103b7442b73d7c3c4d4b[m
+Author: James <james@trbl.design>
+Date:   Mon Mar 4 22:40:05 2024 -0500
+
+    chore: temp adding mongodb to serverComponentsExternalPackages
+
+[33mcommit b224382ceac7eba81610d7e80838f1d5da04c65a[m
+Author: James <james@trbl.design>
+Date:   Mon Mar 4 20:29:08 2024 -0500
+
+    chore: rolls back payload sharp version
+
+[33mcommit 83e2be39c68570244d5c8149df10d09e0564b473[m
+Author: James <james@trbl.design>
+Date:   Mon Mar 4 20:17:26 2024 -0500
+
+    chore: regen pnpm lock
+
+[33mcommit dfe8285522fd4bd2b4637fc5591953e7266da230[m
+Author: James <james@trbl.design>
+Date:   Mon Mar 4 20:15:53 2024 -0500
+
+    chore: rolls back sharp version
+
+[33mcommit db3427c3637c9f29d10181aeb01924d2de117455[m
+Author: James <james@trbl.design>
+Date:   Mon Mar 4 19:52:10 2024 -0500
+
+    chore: preps to deploy to vercel
+
+[33mcommit 4e1a17da2348f093cb339f2478e424db34371beb[m
+Author: James <james@trbl.design>
+Date:   Mon Mar 4 16:49:44 2024 -0500
+
+    chore: bumps packages, migrates to flattened admin
+
+[33mcommit f450f6bafe4e2540133a466a894c65d8ddf8371d[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 1 13:21:15 2024 -0500
+
+    chore: bumps packages
+
+[33mcommit 0159b4a9e83ee7e86b6d348daaa47be51c2fc882[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 1 12:33:44 2024 -0500
+
+    chore: implements withPayload
+
+[33mcommit cbe282b5fd551eebc8c4e9e78bebe0c7a8014034[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 1 12:01:20 2024 -0500
+
+    chore: types more app exports
+
+[33mcommit 87b5cc77628b86ee8dce045294341d793eb8edb3[m
+Author: Jarrod Flesch <jarrodmflesch@gmail.com>
+Date:   Fri Mar 1 11:59:50 2024 -0500
+
+    chore: adjust admin page files
+
+[33mcommit 6821ceccec12910d3fbb0e591aeab41997477901[m
+Author: James <james@trbl.design>
+Date:   Fri Mar 1 11:58:11 2024 -0500
+
+    chore: types app exports
+
+[33mcommit d6fa223598d5a616d5e601c781ea80994ffea94f[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Fri Mar 1 11:48:52 2024 -0500
+
+    chore: add payload and some fixes
+
+[33mcommit d9b29a85148d31a54f856dfdad1cfb5200bae04f[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Fri Mar 1 09:41:11 2024 -0500
+
+    feat: next app barebones
+
+[33mcommit d61f49ba45359bfad8932b10c9ddc5fa0dacce80[m
+Author: Elliot DeNolf <denolfe@gmail.com>
+Date:   Tue Feb 27 14:10:20 2024 -0500
+
+    Initial commit from Create Next App
